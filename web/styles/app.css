@@ -13,8 +13,6 @@
 #app > h2 {
   align-self: flex-start;
   margin-top: 50px;
-  
-  line-height: 70px;
 }
 
 #app > p {
